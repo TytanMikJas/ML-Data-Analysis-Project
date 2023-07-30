@@ -4,7 +4,7 @@
 Welcome to my data analysis and machine learning project on Netflix series and movies! This project marks the beginning of my journey into the exciting world of AI, deep learning, and machine learning. Although I had NO prior ML experience (therefore this project is very begginer-like), this endeavor motivated me to explore and learn more about AI.
 
 ## Project Overview
-
+The project has its dedicated LaTeX PDF in which an in-depth report is written (unfortunately in Polish ;( ).
 The primary goal of this project was to analyze the data provided by Netflix and build a machine learning model to predict the popularity of series and movies. The popularity prediction can help Netflix and content creators understand the factors that influence the audience's preferences and improve the overall streaming experience for users.
 
 ## Background
@@ -21,6 +21,3 @@ Originally, I planned to work on a stock analysis project. However, due to the c
 ## Data Collection
 When it came to the initial (stock) project I have menaged to scrape data from two different websites.
 With Netflix, the first step was to collect Netflix's data, which included information about series and movies available on the platform. I used data provided from Kaggle.
-
-# I very much encourage to visit the PDF that contains all of the analysis :)
-Disclamer, it's written in Polish, as it was required for the course ;(
