@@ -1,6 +1,5 @@
 # Netflix Data Analysis and Popularity Prediction Project 🎥
 
-![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png)
 
 Welcome to my data analysis and machine learning project on Netflix series and movies! This project marks the beginning of my journey into the exciting world of AI, deep learning, and machine learning. Although I had NO prior ML experience (therefore this project is very begginer-like), this endeavor motivated me to explore and learn more about AI.
 
