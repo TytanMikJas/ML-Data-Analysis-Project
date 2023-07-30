@@ -23,3 +23,4 @@ When it came to the initial (stock) project I have menaged to scrape data from t
 With Netflix, the first step was to collect Netflix's data, which included information about series and movies available on the platform. I used data provided from Kaggle.
 
 # I very much encourage to visit the PDF that contains all of the analysis :)
+Disclamer, it's written in Polish, as it was required for the course ;(
